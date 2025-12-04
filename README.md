@@ -9,7 +9,9 @@ This project is a **Web Application** that predicts the probability of diabetes 
 
 It is based on a **Comparative Analysis** of Naive Bayes classifiers, where **Gaussian Naive Bayes** was identified as the most accurate model (90.48% Accuracy) for this dataset.
 
-## 🚀 Live Demo (https://diabetes-risk-prediction-ssrpdgzgynevqwdsgrrywm.streamlit.app/)
+🚀 Live Demo → Click Here to Open the App
+
+Experience real-time diabetes risk prediction directly in your browser.
 
 ## 📊 Methodology
 We compared three variants of Naive Bayes:
